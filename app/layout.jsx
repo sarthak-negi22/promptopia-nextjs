@@ -7,7 +7,7 @@ export const metadata = {
     tile : 'Promptopia',
     description : 'Discover & Share AI Prompts'
 }
-
+// test
 const RootLayout = ({ children }) => {
   return (
         <html lang = "en" >
