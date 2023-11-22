@@ -42,6 +42,7 @@ const MyProfile = () => {
       } catch (error) { 
         console.log(error)
       }
+      // test commit
     }
   }
 
