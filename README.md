@@ -1,3 +1,5 @@
+Note : The changes are not being reflected to the deployed URL. The project is still under development phase.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
