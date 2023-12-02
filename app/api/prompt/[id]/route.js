@@ -4,6 +4,8 @@ import { connectToDB } from "@utils/database";
 import Prompt from "@models/prompt";
 import { connect } from "mongoose";
 
+import User from "@models/user";
+
 export const GET = async (request, { params }) => {
     try {
         await connectToDB();
