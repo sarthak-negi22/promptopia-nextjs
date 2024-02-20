@@ -1,4 +1,4 @@
-Note : The changes are not being reflected to the deployed URL. The project is still under development phase.
+Website is deployed on https://promptopia-proj.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
