@@ -1,4 +1,5 @@
 import Feed from "@components/Feed";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const Home = () => {
   return (
